@@ -104,27 +104,3 @@ def escolha(oponente):
        
 
 escolha(oponente)
-
-
-
-
-
-# nome1 = input("Digite o seu nome: ")
-# # jogador1 = Jogador(nome1, num, 1)
-# oponente = int(input("Contra quem vc deseja jogar?[1- Outro jogador, 2- Computador]: "))
-#     if oponente == 1:
-#        print("Vc escolheu jogar contra outro jogador")
-#        nome2 = input("Informe o nome do oponente: ")
-       
-#     elif oponente == 2:
-#        print("Vc escolheu jogar contra o computador")
-#        nome2 = "Computador"
-#     else:
-#        print("Valor inválido, tente novamente")
-
-
-# nome2 = 
-
-
-#1- escolher impar ou par (jogador 1 e dps jogador 2)
-#2-jogador 1 = um num > jogador 2 = outro num
