@@ -104,3 +104,7 @@ def escolha(oponente):
        
 
 escolha(oponente)
+
+
+
+print("oi")
